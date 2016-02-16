@@ -1,0 +1,36 @@
+
+/* 1201 Update */
+.lyra-mainheader {
+    position:absolute;
+    top:83%;
+    margin-top: -50px;
+    text-align:center;
+    padding: 5px;
+    width:100%;
+    left:0;
+    font-size: 50px;
+}
+#hero .lyra-mainheader h1 {
+    text-shadow: 2px 2px #aaa;
+    font-size: 54px;
+}
+#hero .lyra-mainheader p {
+    text-shadow : 1px 1px #ccc;
+    font-size   : 40px;
+}
+.banner-arrow {
+    display: none !important;
+}
+
+.footer-bottom {
+    position: relative;
+    z-index: 100;
+}
+#cart-button {
+    z-index: 50 !important;
+}
+
+/* 1222 Update */
+.item figure img {
+    background-position: center center;
+}
